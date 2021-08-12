@@ -52,7 +52,8 @@ orcid_username: false
 about_title: Profile
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  > ####대한민국 1호 클레임 처리 전문 신입 개발자   
+  ## 대한민국 1호 클레임 처리 전문 신입 개발자   
+      
   Hi, my name is James Grant, I'm a full stack web developer with over 8 years experience currently specialising in React development.
   I am currently working for NatWest as a frontend software engineer on their comercial banking platform, Bankline.
   I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
