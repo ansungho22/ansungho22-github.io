@@ -127,7 +127,7 @@ content:
           > 느낌점에서 부랴부랴 적어보아요
       
       - layout: left
-        title: 스마트공장을 위한 공정 제어계측 데이터 추출분석 및 품질관리 프로젝트
+        title: 스마트공장 공정 제어계측 데이터 추출분석 
         sub_title: 2021.04 ~ 진행중
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
