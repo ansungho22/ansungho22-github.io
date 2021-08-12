@@ -111,7 +111,8 @@ content:
           > 느낀점을 부랴부랴 적어보아요
           
           ---
-          
+
+      
       - layout: right
         title: 스마트 통역 서비스
         sub_title: 2021.07 ~ 진행중
@@ -135,6 +136,7 @@ content:
 
           ---
 
+      
       - layout: left
         title: 스마트공장 공정 제어계측 데이터 추출분석 
         sub_title: 2021.04 ~ 진행중
