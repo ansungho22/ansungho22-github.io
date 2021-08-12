@@ -91,7 +91,7 @@ content:
     content:
       - layout: left
         title: 백엔드 과제 플랫폼
-        sub_title: 2021.05 ~ 진행중
+        sub_title: 2021.06 ~ 진행중
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -115,7 +115,7 @@ content:
       
       - layout: right
         title: 스마트 통역 서비스
-        sub_title: 2021.07 ~ 진행중
+        sub_title: 2021.04 ~ 진행중
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
