@@ -97,13 +97,13 @@ content:
           이러쿵 저렁쿵 내용을 여기에다가 적은 다음에 백엔드를 쓰고 그 다음에는 어떤거를 사용 하여서 이걸 만들었습니다.
           만드는데 굉장히 어려웠다 하지만 생각 보다 할만 했습니다 
         description: | # this will include new lines to allow paragraphs
-          *   *기술 스택* - 
+          *   **기술 스택** - 
           <mark>Django</mark>,
           <mark>React</mark>,
           <mark>AWS</mark>,
           <mark>Git</mark>    
-          *   *역할* - 
-          *   *후기* -  
+          *   **역할** - 
+          *   **후기** -  
       
       - layout: right
         title: 스마트 통역 서비스
@@ -116,13 +116,13 @@ content:
           이러쿵 저렁쿵 내용을 여기에다가 적은 다음에 백엔드를 쓰고 그 다음에는 어떤거를 사용 하여서 이걸 만들었습니다.
           만드는데 굉장히 어려웠다 하지만 생각 보다 할만 했습니다 
         description: | # this will include new lines to allow paragraphs
-          *   기술 스택 -
+          *   **기술 스택** -
           <mark>Django</mark>,
           <mark>React.native</mark>,
           <mark>AWS</mark>,
           <mark>Git</mark>
-          *   역할 - 
-          *   후기 -
+          *   **역할** - 
+          *   **후기** -
       
       - layout: left
         title: 스마트공장을 위한 공정 제어계측 데이터 추출분석 및 품질관리 프로젝트
@@ -135,11 +135,11 @@ content:
           이러쿵 저렁쿵 내용을 여기에다가 적은 다음에 백엔드를 쓰고 그 다음에는 어떤거를 사용 하여서 이걸 만들었습니다.
           만드는데 굉장히 어려웠다 하지만 생각 보다 할만 했습니다 
         description: | # this will include new lines to allow paragraphs
-          *   기술 스택 -
+          *   **기술 스택** -
           <mark>Java</mark>,
           <mark>AWS</mark>   
-          *   역할 -   
-          *   후기 -  
+          *   **역할** -   
+          *   **후기** -  
 #  - title: Experience
 #    layout: list
 #    content:
