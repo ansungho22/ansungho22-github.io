@@ -71,7 +71,8 @@ about_content: | # this will include new lines to allow paragraphs
       *  <mark>MySQL</mark>
   *  Others      
       *  <mark>AWS</mark>     
-      *  <mark>Git</mark>  
+      *  <mark>Git</mark>
+      *  <mark>Postman</mark>  
 #<mark>AWS</mark> services.
 # Hi my name's SungHo and I'm a senior in college. People call me GOAT because I think everything is the last time and I work hard.
 # In my pastime I solving algorithm problems, exercising, and acquiring new skills.
