@@ -57,12 +57,12 @@ about_content: | # this will include new lines to allow paragraphs
   I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
   I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
   with something new. The things that I currently have the most experience working with are:      
-  *   Languages                                          *  Frameworks
-      *  <mark>Python</mark>                                *  <mark>Django</mark>     
+  *   Languages
+      *  <mark>Python</mark>     
       *  <mark>Java</mark>    
       *  <mark>JavaScript</mark>    
       *  <mark>C++</mark>         
-        
+  *  Frameworks      
       *  <mark>Django</mark>     
       *  <mark>Node.js</mark>     
       *  <mark>React</mark>   
