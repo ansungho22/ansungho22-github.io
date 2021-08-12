@@ -52,7 +52,7 @@ orcid_username: false
 about_title: Profile
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  전문 신입 개발자   
+  한문장으로 나의 모든걸 표현 
   -----
 
   Hi, my name is James Grant, I'm a full stack web developer with over 8 years experience currently specialising in React development.
@@ -145,10 +145,10 @@ content:
           *   **기술 스택** -
           <mark>Java</mark>,
           <mark>AWS</mark>   
-          *   **역할**    
-          >
-          *   **후기**
-          >   
+          *   **역할** 
+          > 내가 무슨 역할을 했는지 부랴부랴 적어보아요
+          *   **후기** 
+          > 느낌점에서 부랴부랴 적어보아요   
 
   - title: A Little More About Me
     layout: text
