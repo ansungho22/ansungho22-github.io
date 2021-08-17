@@ -134,7 +134,7 @@ content:
           <mark>AWS RDS</mark>,
           <mark>MySQL</mark>,
           *   **역할** 
-          > 팀 리더, 앱 로그인 및 회원관리API구현, 채팅방구현, Google Cloude SST, TTS를 사용한 번역API구현, 채팅관련 DB설계 
+          > 팀 리더, 어플리케이션 로그인 및 회원관리 API구현, 커뮤니케이션을 위한 채팅방 구현, Google Cloude SST & TTS를 사용한 번역 API구현, 회원 및 채팅방 DB설계 
           *   **후기** 
           > TBD
 
