@@ -52,10 +52,10 @@ orcid_username: false
 about_title: Profile
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  A function does one thing.
+  **Win or learn never lose**
   -----
   안녕하세요, 겁없는 주니어 개발자 안성호입니다.    
-  실패를 통해 배우는것을 즐기며 도전하는것을 취미로 끊임없이 발전하는것이 강점입니다.   
+  도전을 무서워 하지않고 실패를 통한 배움, 새로운 지식을 습득하는것을 좋아합니다.   
   가독성이 뛰어나며 구조 파악이 용이한 코드를 작성하는 것을 좋아합니다.   
   좋은 복지, 급여, 환경보다 좋은 사람들과 일하고 싶습니다.    
 
