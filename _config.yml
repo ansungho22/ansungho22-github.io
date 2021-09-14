@@ -93,7 +93,7 @@ content:
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/ansungho22/BE-Dev-Test-Platform
         quote:  >
            서버 개발자 채용테스트를 위한 과제형 테스트 플랫폼으로 React를 이용하여 서버개발자 과제전형을 위한 더미 클라이언트 화면을 만들고 
            Dokcer로 이미지화하여 화면을 다운받아 API개발과제를 진행할 수 있는 플랫폼 구축 프로젝트 
@@ -121,7 +121,7 @@ content:
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/ansungho22/Smart-Translation-App
         quote:  >
            TTS,STT를 활용한 실시간 음성 및 채팅 번역 어플리케이션 개발 프로젝트
         description: | # this will include new lines to allow paragraphs
