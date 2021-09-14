@@ -52,18 +52,12 @@ orcid_username: false
 about_title: Profile
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  코드계의 피카소가 되고싶은 사나이   
-  
+  A function does one thing.
   -----
-
-  現 대학교 4학년    
-  *   컴퓨터전공이지만 매일 운동하는 그사람?!   
-  *   해커톤보다 (하프)마라톤을 좋아하는 그사람?!   
-  *   일하는것보다 사람과 말하는걸 좋아하는 그사람?!    
-  *   왜?를 입에 달고 사는 그사람?!   
-   
-  
-
+  안녕하세요, 겁없는 주니어 개발자 안성호입니다.
+  실패를 통해 배우는것을 즐기며 도전하는것을 취미로 끊임없이 발전하는것이 강점입니다.
+  가독성이 뛰어나며 구조 파악이 용이한 코드를 작성하는 것을 좋아합니다.
+  좋은 복지, 급여, 환경보다 좋은 사람들과 일하고 싶습니다. 
 
   *   Languages
       *  <mark>Python</mark>     
