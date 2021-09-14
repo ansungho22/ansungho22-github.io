@@ -161,8 +161,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      다양한 경험을 하는것을 좋아합니다.      
+      시도도 하지않고 포기하는것을 정말 싫어합니다.      
+      알고리즘 문제를 생각하며 달리면 행복을 느낍니다.    
+      어제의 나보다 나은 나를 위해..
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
